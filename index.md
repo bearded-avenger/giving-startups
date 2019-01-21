@@ -8,6 +8,8 @@ I pitched the idea to the co-founders of another startup I'm a part of. They're 
 
 Now, I'm challenging **you** to donate 10% of your startups profits to charitable organizations of your choice.
 
+___
+
 ### Startups Committed to Giving 10% of Profits to Charities
 - [SportKeeper](https://sport-keeper.com)
 - [Mavenseed](https://mavenseed.com)
