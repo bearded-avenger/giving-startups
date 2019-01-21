@@ -19,7 +19,7 @@ ___
 ___
 
 #### Who are you?
-My name is Nick Haskins, and I'm a software enginneer and entrepreneur living in the mountains of Boone, NC. You can find me babbling on [Twitter](https://twitter.com/nphaskins).
+My name is Nick Haskins, and I'm a software engineer and entrepreneur living in the mountains of Boone, NC. You can find me babbling on [Twitter](https://twitter.com/nphaskins).
 
 #### Why did you make this?
 I got the idea after posting an update on [my startups blog](https://sport-keeper.com/posts/7-january-update). In the post I talk about giving away 10% to a non-profit group. After talking to my co-founders and getting their excitement, I wanted to put this out there.
