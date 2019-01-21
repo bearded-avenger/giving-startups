@@ -16,9 +16,6 @@ ___
 - [SportKeeper](https://sport-keeper.com)
 - [Mavenseed](https://mavenseed.com)
 
-### Startups helping this project
-- you are here
-
 ___
 
 #### Who are you?
