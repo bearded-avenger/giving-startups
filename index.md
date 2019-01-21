@@ -6,7 +6,7 @@ I'm launching a startup, but its product is irrelevant. What's important is that
 
 I pitched the idea to the co-founders of another startup I'm a part of. They're on board as well, and will be donating 10% of those profits.
 
-Now, I'm challenging **you** to donate 10% of your startups profits to charitable organizations of your choice.
+Now, I'm challenging **you** to donate 10% of your startups profits to charitable organizations of your choice. Then, send me your startups link on Twitter, or make a PR to update the list below.
 
 ___
 
@@ -19,3 +19,6 @@ My name is Nick Haskins, and I'm a software enginneer and entrepreneur living in
 
 ### Why did you make this?
 I got the idea after posting an update on [my startups blog](https://sport-keeper.com/posts/7-january-update). In the post I talk about giving away 10% to a non-profit group. After talking to my co-founders and getting their excitement, I wanted to put this out there.
+
+### What's your plans?
+As you can see this is just using a GH page for now to validate the idea. I'd like to get a real site up. Securing a hosting account is next. I'd also love to get some infrastructure in place to accept submissions. Some type of logo could be cool too. If you can help with any of this please reach out to me on [Twitter](https://twitter.com/nphaskins).
