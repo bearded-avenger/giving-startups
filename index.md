@@ -18,9 +18,10 @@ ___
 
 ### Startups helping this project
 - you are here
+
 ___
 
-#### Who am I?
+#### Who are you?
 My name is Nick Haskins, and I'm a software enginneer and entrepreneur living in the mountains of Boone, NC. You can find me babbling on [Twitter](https://twitter.com/nphaskins).
 
 #### Why did you make this?
